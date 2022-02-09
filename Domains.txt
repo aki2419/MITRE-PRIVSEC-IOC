@@ -904,7 +904,6 @@ update.itresolver.online
 goldenlines.site
 update.nextdata.site
 vitaminmain.info
-t2m.io
 brevini-france.cf
 onedrivenet.xyz
 diamondfoxpanel.ml
